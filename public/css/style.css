@@ -1,0 +1,20 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: rgb(193, 187, 187);
+}
+
+a {
+  color: #0690c7;
+}
+img{
+  width: 100%;
+}
+figure{
+  width: 20%;
+}
